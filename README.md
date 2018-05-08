@@ -9,7 +9,7 @@ Make an recipe app that everyone can use
 ## Motivation
 As a lover of foods, I wanted to make an app that allowed me to keep the foods i liked on deck to make later.
 
-##Trello
+## Trello
 https://trello.com/b/1QzyNagj/recipes-please
 
 ## Wireframe
